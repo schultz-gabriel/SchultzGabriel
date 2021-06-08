@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SchultzGabriel
-- 👀 I’m interested in technological advances in basic education.
-- 🌱 I’m currently learning basic development
-- 💞️ I’m looking to collaborate on homemade rockets to Mars.
-- 📫 How to reach me: soon I'll put m
+- 👀 I’m interested in technological advances in basic education and elemental school.
+- 🌱 I’m currently learning basic development skills.
+- 💞️ I’m looking to collaborate on forming new devs.
+- 📫 How to reach me: https://www.instagram.com/bridigabriel/
 
 <!---
 SchultzGabriel/SchultzGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
