@@ -8,6 +8,10 @@ Currently studying front-end development and aspire to build my own online schoo
 
 Let's play all the Ps1 Resident Evil in a row some weekend(seriously)!
 
+
+
+
+
 My main laguage and framwork skills are:
 
 ![image](https://user-images.githubusercontent.com/81654505/126410452-21c3428d-fe66-4507-8d3f-bb6db7a3e586.png)
@@ -16,8 +20,9 @@ My main laguage and framwork skills are:
 ![image](https://user-images.githubusercontent.com/81654505/126410482-064cc7df-16f6-4b5a-b1fc-9c5df77b3d60.png)
 ![image](https://user-images.githubusercontent.com/81654505/126410508-bb6da06f-6ca4-46d1-b985-c8677ecb7a81.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SchultzGabriel&layout=compact)](https://github.com/SchultzGabriel/github-readme-stats)
 
+Wait, that's a lie! I use CSS too! I just copied a liar code, sorry!
 
 <!---
 SchultzGabriel/SchultzGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
