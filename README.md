@@ -1,4 +1,4 @@
-# Oi, eu sou o Gabriel! :handshake:	
+# Prazer, sou Gabriel! :handshake:	
 
 :books: Sou um professor de biologia do sul do Brasil em transição de carreira para desenvolvedor web. Atualmente estudando tecnologias de front-end na Alura, livros e internet em geral;
 
